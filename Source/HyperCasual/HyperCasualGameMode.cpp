@@ -12,4 +12,5 @@ AHyperCasualGameMode::AHyperCasualGameMode()
 	{
 		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
+
 }

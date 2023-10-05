@@ -26,8 +26,7 @@ void APlayerFish::BeginPlay()
 void APlayerFish::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-	// Print actor name
-	UE_LOG(LogTemp, Warning, TEXT("Actor name: %s"), *GetName());
+
 }
 
 // Called to bind functionality to input
